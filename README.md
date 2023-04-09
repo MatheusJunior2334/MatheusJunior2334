@@ -28,5 +28,7 @@
   <img src="https://th.bing.com/th/id/R.9aff8f6a2cf9ecd7ed7ad050d09268d7?rik=PjzfRTUeSvJfPQ&pid=ImgRaw&r=0" alt="Bandeira da Alemanha e do Reino Unido" border="0" width="200px" height="150px" align="right"></img>
 </div>
 
+##
+
 <a href="mailto:matheusjuniormjg2334@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 <a href="https://www.linkedin.com/in/matheus-j%C3%BAnior-770746235/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
