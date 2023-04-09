@@ -2,10 +2,10 @@
 #### Web Development Student | Student der Webentwicklung
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=MatheusJunior2334&show_icons=true&theme=dark" />
+  <img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=MatheusJunior2334&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/MatheusJunior2334/README.md/github-readme-stats">
-  <img align="center" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJunior2334&layout=compact&theme=dark" />
+  <img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJunior2334&layout=compact&theme=dark" />
 </a>
 
 <br>
