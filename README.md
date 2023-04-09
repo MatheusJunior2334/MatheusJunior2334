@@ -1,4 +1,4 @@
-# Hallo Leute 👋, Welcome to my GitHub!
+# Hallo Leute 👋, welcome to my GitHub!
 ### Web Development Student | Student der Webentwicklung
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
