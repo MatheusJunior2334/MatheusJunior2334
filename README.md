@@ -1,5 +1,7 @@
-# Hallo Leute 👋, welcome to my GitHub!
-### Web Development Student | Student der Webentwicklung
+<div align=center>
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1AACEF&size=35&center=true&vCenter=true&width=1000&lines=+Welcome+to+my+GitHub+👋;Willkommen+aus+mein+GitHub+👋;My+name+is+Matheus+Júnior;Ich+heiße+Matheus+Júnior;Front-end+Developer+;Frontend-Entwickler)](https://git.io/typing-svg)
+</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=MatheusJunior2334&show_icons=true&theme=dark" />
@@ -8,11 +10,15 @@
   <img align="center" height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJunior2334&layout=compact&theme=dark" />
 </a>
 
-<br>
-<br>
+<br />
+<br />
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusJunior2334&bg_color=0d1117&color=1AACEA&line=1AACEF&point=36A1C3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <h3>Technologies and tools I am learning | Technologien und Tools, die ich lerne</h3>
 
-<div style="display: inline_block">
+<div style="display: inline-flex">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40px" height="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40px" height="40px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"/>
