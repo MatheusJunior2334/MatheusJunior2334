@@ -31,7 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40px" height="40px"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40px" height="40px"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40px" height="40px"/>    
-  <img src="https://th.bing.com/th/id/R.9aff8f6a2cf9ecd7ed7ad050d09268d7?rik=PjzfRTUeSvJfPQ&pid=ImgRaw&r=0" alt="Bandeira da Alemanha e do Reino Unido" border="0" width="200px" height="150px" align="right"></img>
+  <img src="https://media.istockphoto.com/id/509687411/vector/german-and-british-flags-vector.jpg?s=612x612&w=0&k=20&c=qgQRojrfWMQ7-diyCuQtWdWz7yLaeIymnxut1jwoHbQ=" alt="Bandeira da Alemanha e do Reino Unido" border="0" width="200px height="auto" align="right"></img>
 </div>
 
 ##
