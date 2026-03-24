@@ -5,7 +5,7 @@
 
 ## 📌 Sobre
 
-Meu nome é **Matheus Júnior**, tenho **21 anos de idade** e atualmente curso **Ciências da Computação** pela **UNICID (Universidade Cidade de São Paulo)**.
+Meu nome é **Matheus Júnior**, tenho **22 anos de idade** e atualmente curso **Ciências da Computação** pela **UNICID (Universidade Cidade de São Paulo)**.
 
 Também sou formado em **Desenvolvimento Web Fullstack** pelo **Instituto PROA**.
 
